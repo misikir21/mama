@@ -1,5 +1,5 @@
-# Todo-list
-This is a simple math magic application built with JavaScript, HTML, and CSS. It allows users to create a list of tasks with a description, completion status, and index.
+# math-magic-list
+This simple math magic application is built with JavaScript, HTML, and CSS. It allows users to create to do the basic math operations of addition, subtraction, division and multiplication.
 
 # 📗 Table of Contents
 
@@ -27,12 +27,12 @@ This is a simple math magic application built with JavaScript, HTML, and CSS. It
 - [📝 License](#license)
 
 ### Key Features <a name="key-features"></a>
-- do the basic math operation using api
+- Do the basic math operation using API
 
 
 
 
-# 📖  todo-list <a name="about-project"></a>
+# 📖  math-magic <a name="about-project"></a>
 
 This is a math magic application built with JavaScript, HTML, and CSS. It allows users to create a list of tasks with a description, completion status, and index.
 
@@ -60,10 +60,10 @@ This is a math magic application built with JavaScript, HTML, and CSS. It allows
 
 ### Key Features <a name="key-features"></a>
 
--  Add a new task
--  Remove a completed task
--  Display all task
--  Data is preserved in the browser's memory
+-  Add 
+-  Subtract
+-  Multiply 
+-  Divde 
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
@@ -138,6 +138,6 @@ I would like to thank Microverse
 
 ## 📝 License <a name="license"></a>
 
-License Grant: misikir21 grants the licensee a non-exclusive, non-transferable, revocable license to use the todo list app for personal or commercial purposes.
+License Grant: misikir21 grants the licensee a non-exclusive, non-transferable, revocable license to use the math-magic list app for personal or commercial purposes.
 Restrictions: The licensee shall not copy, modify, distribute, sell, sublicense, or transfer the to-do list app or any portion thereof. The licensee shall not reverse engineer, decompile, or disassemble the to-do list app.
 Ownership: The licensor retains all rights, title, and interest in and to the to-do list app, including all intellectual property rights therein other mit license are also valid.This project is licensed<a  href="https://choosealicense.com/licenses/mit/">MIT</a>
