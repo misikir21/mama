@@ -1,4 +1,4 @@
-# math-magic-list
+# math-magicians
 This simple math magic application is built with JavaScript, HTML, and CSS. It allows users to create to do the basic math operations of addition, subtraction, division and multiplication.
 
 # 📗 Table of Contents
@@ -7,7 +7,6 @@ This simple math magic application is built with JavaScript, HTML, and CSS. It a
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
-  - [🚀 Live Demo](#live-demo)
 - [💻 Getting Started](#getting-started)
 - [Setup](#setup)
   - [Prerequisites](#prerequisites)
@@ -69,10 +68,6 @@ This is a math magic application built with JavaScript, HTML, and CSS. It allows
 -  Multiply 
 -  Divde
 -  full website naviagtion
-
-## 🚀 Live Demo <a name="live-demo"></a>
-
-
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
