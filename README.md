@@ -27,7 +27,7 @@ This simple math magic application is built with JavaScript, HTML, and CSS. It a
 - [📝 License](#license)
 
 ### Key Features <a name="key-features"></a>
-- Do the basic math operation using API
+- Do the basic math operation using API and full navigation to the website added 
 
 
 
@@ -41,6 +41,7 @@ This is a math magic application built with JavaScript, HTML, and CSS. It allows
 - HTML
 - CSS
 - JavaScript
+- React-js
 - Linters
 
 ### Tech Stack <a name="tech-stack"></a>
@@ -53,6 +54,9 @@ This is a math magic application built with JavaScript, HTML, and CSS. It allows
         <ul>
             <li><a  href="https://developer.mozilla.org/en-US/docs/Web/CSS">CSS</a></li>
         </ul>
+  ul>
+            <li><a  href="https://developer.mozilla.org/en-US/docs/Web/CSS">Reactjs/a></li>
+        </ul>
         <ul>
             <li><a  href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">Javascript</a></li>
         </ul>
@@ -63,7 +67,8 @@ This is a math magic application built with JavaScript, HTML, and CSS. It allows
 -  Add 
 -  Subtract
 -  Multiply 
--  Divde 
+-  Divde
+-  full website naviagtion
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
