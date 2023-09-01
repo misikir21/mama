@@ -1,4 +1,4 @@
-# Todo-list
+# Math Magicians
 This is a simple math magic application built with JavaScript, HTML, and CSS. It allows users to create a list of tasks with a description, completion status, and index.
 
 # 📗 Table of Contents
@@ -32,7 +32,7 @@ This is a simple math magic application built with JavaScript, HTML, and CSS. It
 
 
 
-# 📖  todo-list <a name="about-project"></a>
+# 📖 # Math Magicians <a name="about-project"></a>
 
 This is a math magic application built with JavaScript, HTML, and CSS. It allows users to create a list of tasks with a description, completion status, and index.
 
@@ -117,6 +117,10 @@ Open index.html using live server extension.
 ## 🔭 Future Features <a name="future-features"></a>
 - [ ] A complete website with navigation
 - [ ] Add more styles to make it more awesome
+
+👤 **Md Arafat Hossain**
+- GitHub: <a href="https://github.com/HossainAraf">HossainAraf </a>
+- LinkedIn: <a href="https://linkedin.com/in/md-arafat-hossain-111403275"> Md. Arafat Hossain </a>
 
 ## 🤝 Contributing <a name="contributing"></a>
 
