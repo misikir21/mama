@@ -16,6 +16,7 @@ exports[`Test the all commponents The CalculatorPage is rendered accurately! 1`]
       >
         <div
           class="diplay"
+          data-testid="result"
         >
           0
         </div>
@@ -24,6 +25,7 @@ exports[`Test the all commponents The CalculatorPage is rendered accurately! 1`]
         >
           <button
             class="btn"
+            data-testid="AC"
             id="AC"
             type="button"
           >
@@ -31,6 +33,7 @@ exports[`Test the all commponents The CalculatorPage is rendered accurately! 1`]
           </button>
           <button
             class="btn"
+            data-testid="+/-"
             id="+/-"
             type="button"
           >
@@ -38,6 +41,7 @@ exports[`Test the all commponents The CalculatorPage is rendered accurately! 1`]
           </button>
           <button
             class="btn"
+            data-testid="%"
             id="%"
             type="button"
           >
@@ -45,6 +49,7 @@ exports[`Test the all commponents The CalculatorPage is rendered accurately! 1`]
           </button>
           <button
             class="btn"
+            data-testid="÷"
             id="÷"
             type="button"
           >
@@ -52,6 +57,7 @@ exports[`Test the all commponents The CalculatorPage is rendered accurately! 1`]
           </button>
           <button
             class="btn"
+            data-testid="7"
             id="7"
             type="button"
           >
@@ -59,6 +65,7 @@ exports[`Test the all commponents The CalculatorPage is rendered accurately! 1`]
           </button>
           <button
             class="btn"
+            data-testid="8"
             id="8"
             type="button"
           >
@@ -66,6 +73,7 @@ exports[`Test the all commponents The CalculatorPage is rendered accurately! 1`]
           </button>
           <button
             class="btn"
+            data-testid="9"
             id="9"
             type="button"
           >
@@ -73,6 +81,7 @@ exports[`Test the all commponents The CalculatorPage is rendered accurately! 1`]
           </button>
           <button
             class="btn"
+            data-testid="x"
             id="x"
             type="button"
           >
@@ -80,6 +89,7 @@ exports[`Test the all commponents The CalculatorPage is rendered accurately! 1`]
           </button>
           <button
             class="btn"
+            data-testid="4"
             id="4"
             type="button"
           >
@@ -87,6 +97,7 @@ exports[`Test the all commponents The CalculatorPage is rendered accurately! 1`]
           </button>
           <button
             class="btn"
+            data-testid="5"
             id="5"
             type="button"
           >
@@ -94,6 +105,7 @@ exports[`Test the all commponents The CalculatorPage is rendered accurately! 1`]
           </button>
           <button
             class="btn"
+            data-testid="6"
             id="6"
             type="button"
           >
@@ -101,6 +113,7 @@ exports[`Test the all commponents The CalculatorPage is rendered accurately! 1`]
           </button>
           <button
             class="btn"
+            data-testid="-"
             id="-"
             type="button"
           >
@@ -108,6 +121,7 @@ exports[`Test the all commponents The CalculatorPage is rendered accurately! 1`]
           </button>
           <button
             class="btn"
+            data-testid="1"
             id="1"
             type="button"
           >
@@ -115,6 +129,7 @@ exports[`Test the all commponents The CalculatorPage is rendered accurately! 1`]
           </button>
           <button
             class="btn"
+            data-testid="2"
             id="2"
             type="button"
           >
@@ -122,6 +137,7 @@ exports[`Test the all commponents The CalculatorPage is rendered accurately! 1`]
           </button>
           <button
             class="btn"
+            data-testid="3"
             id="3"
             type="button"
           >
@@ -129,6 +145,7 @@ exports[`Test the all commponents The CalculatorPage is rendered accurately! 1`]
           </button>
           <button
             class="btn"
+            data-testid="+"
             id="+"
             type="button"
           >
@@ -136,6 +153,7 @@ exports[`Test the all commponents The CalculatorPage is rendered accurately! 1`]
           </button>
           <button
             class="btn"
+            data-testid="0"
             id="0"
             type="button"
           >
@@ -143,6 +161,7 @@ exports[`Test the all commponents The CalculatorPage is rendered accurately! 1`]
           </button>
           <button
             class="btn"
+            data-testid="."
             id="."
             type="button"
           >
@@ -150,6 +169,7 @@ exports[`Test the all commponents The CalculatorPage is rendered accurately! 1`]
           </button>
           <button
             class="btn"
+            data-testid="="
             id="="
             type="button"
           >
@@ -176,15 +196,17 @@ exports[`Test the all commponents The HomePage is rendered accurately!  1`] = `
       class="text"
     >
       <p>
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
       </p>
+       
     </div>
     <div
       class="text"
     >
       <p>
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
       </p>
+       
     </div>
   </div>
 </div>
