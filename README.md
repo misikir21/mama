@@ -1,6 +1,4 @@
-# Todo-list
-This is a simple math magic application built with JavaScript, HTML, and CSS. It allows users to create a list of tasks with a description, completion status, and index.
-
+# Math Magicians
 # 📗 Table of Contents
 
 - [📖 About the Project](#about-project)
@@ -32,7 +30,7 @@ This is a simple math magic application built with JavaScript, HTML, and CSS. It
 
 
 
-# 📖  todo-list <a name="about-project"></a>
+# 📖 # Math Magicians <a name="about-project"></a>
 
 This is a math magic application built with JavaScript, HTML, and CSS. It allows users to create a list of tasks with a description, completion status, and index.
 
@@ -113,10 +111,16 @@ Open index.html using live server extension.
 
 ## 👥 Authors <a name="getting-started"></a>
 
-👤 misikir teka
+👤 **misikir teka**
+GitHub: <a href="https://github.com/misikir21">misikir</a>
+- LinkedIn: <a href="https://linkedin.com/in/misikirteka"> Md. Arafat Hossain </a>
 ## 🔭 Future Features <a name="future-features"></a>
 - [ ] A complete website with navigation
 - [ ] Add more styles to make it more awesome
+
+👤 **Md Arafat Hossain**
+- GitHub: <a href="https://github.com/HossainAraf">HossainAraf </a>
+- LinkedIn: <a href="https://linkedin.com/in/md-arafat-hossain-111403275"> Md. Arafat Hossain </a>
 
 ## 🤝 Contributing <a name="contributing"></a>
 
@@ -138,6 +142,7 @@ I would like to thank Microverse
 
 ## 📝 License <a name="license"></a>
 
-License Grant: misikir21 grants the licensee a non-exclusive, non-transferable, revocable license to use the todo list app for personal or commercial purposes.
-Restrictions: The licensee shall not copy, modify, distribute, sell, sublicense, or transfer the to-do list app or any portion thereof. The licensee shall not reverse engineer, decompile, or disassemble the to-do list app.
-Ownership: The licensor retains all rights, title, and interest in and to the to-do list app, including all intellectual property rights therein other mit license are also valid.This project is licensed<a  href="https://choosealicense.com/licenses/mit/">MIT</a>
+This project is [MIT](./LICENSE) licensed.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+

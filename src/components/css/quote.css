@@ -5,6 +5,8 @@
   border: 1px solid #6767fc;
   border-radius: 10px;
   box-shadow: 5px 10px 18px #888;
+  position: relative;
+  top: 250px;
 }
 
 .error {
