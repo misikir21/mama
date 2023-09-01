@@ -40,16 +40,14 @@ This simple math magic application is built with JavaScript, HTML, and CSS. It a
     <summary>Client</summary>
         <ul>
             <li><a  href="https://developer.mozilla.org/en-US/docs/Web/HTML">HTML</a></li>
+          <li><a  href="https://developer.mozilla.org/en-US/docs/Web/CSS">CSS</a></li>
         </ul>
         <ul>
-            <li><a  href="https://developer.mozilla.org/en-US/docs/Web/CSS">CSS</a></li>
+            <li><a  href="https://developer.mozilla.org/en-US/docs/Web/">ReactJS</a></li>
+          <li><a  href="https://developer.mozilla.org/en-US/docs/Web/">Javascript</a></li>
         </ul>
-  ul>
-            <li><a  href="https://developer.mozilla.org/en-US/docs/Web/CSS">Reactjs/a></li>
-        </ul>
-        <ul>
-            <li><a  href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">Javascript</a></li>
-        </ul>
+  
+          
 </details>
 
 ### Key Features <a name="key-features"></a>
