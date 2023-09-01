@@ -1,6 +1,4 @@
 # Math Magicians
-This is a simple math magic application built with JavaScript, HTML, and CSS. It allows users to create a list of tasks with a description, completion status, and index.
-
 # 📗 Table of Contents
 
 - [📖 About the Project](#about-project)
@@ -113,7 +111,9 @@ Open index.html using live server extension.
 
 ## 👥 Authors <a name="getting-started"></a>
 
-👤 misikir teka
+👤 **misikir teka**
+GitHub: <a href="https://github.com/misikir21">misikir</a>
+- LinkedIn: <a href="https://linkedin.com/in/misikirteka"> Md. Arafat Hossain </a>
 ## 🔭 Future Features <a name="future-features"></a>
 - [ ] A complete website with navigation
 - [ ] Add more styles to make it more awesome
