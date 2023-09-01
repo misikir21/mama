@@ -11,9 +11,7 @@ const Quote = () => {
       try {
         const res = await fetch('https://api.api-ninjas.com/v1/quotes?category=leadership', {
           headers: {
-
-            'X-Api-Key': 'n7v9CVhv4b6yTvQajuHO4A==yWA06hqLK6YEYJIC',
-
+            'X-Api-Key': 'n7v9CVhv4b6yTvQajuHO4A==yWA06hqLK6YEYJID',
           },
         });
         const json = await res.json();

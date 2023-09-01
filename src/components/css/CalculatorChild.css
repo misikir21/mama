@@ -16,6 +16,12 @@
   background-color: var(--allColor);
   border: none;
   height: 50px;
+  cursor: pointer;
+}
+
+.btn:hover {
+  border: 2px dotted #141414;
+  border-radius: 5px;
 }
 
 button[id="0"] {
@@ -24,7 +30,7 @@ button[id="0"] {
 }
 
 button[id="÷"],
-button[id="×"],
+button[id="x"],
 button[id="-"],
 button[id="+"],
 button[id="="] {
