@@ -1,3 +1,5 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
 exports[`Test the all commponents The CalculatorPage is rendered accurately! 1`] = `
 <div>
   <div
@@ -159,6 +161,7 @@ exports[`Test the all commponents The CalculatorPage is rendered accurately! 1`]
   </div>
 </div>
 `;
+
 exports[`Test the all commponents The HomePage is rendered accurately!  1`] = `
 <div>
   <div
@@ -186,6 +189,7 @@ exports[`Test the all commponents The HomePage is rendered accurately!  1`] = `
   </div>
 </div>
 `;
+
 exports[`Test the all commponents The QuotePage is rendered accurately! 1`] = `
 <div>
   <div
