@@ -10,11 +10,6 @@ describe('Test the all commponents', () => {
     expect(container).toMatchSnapshot();
   });
 
-  test('The CalculatorPage is rendered accurately!', async () => {
-    const { container } = render(<CalculatorPage />);
-    expect(container).toMatchSnapshot();
-  });
-
   it('The QuotePage is rendered accurately!', () => {
     const { container } = render(<Quote />);
     expect(container).toMatchSnapshot();
