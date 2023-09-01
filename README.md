@@ -25,15 +25,6 @@ This simple math magic application is built with JavaScript, HTML, and CSS. It a
 
 - [📝 License](#license)
 
-### Key Features <a name="key-features"></a>
-- Do the basic math operation using API and full navigation to the website added 
-
-
-
-
-# 📖  math-magic <a name="about-project"></a>
-
-This is a math magic application built with JavaScript, HTML, and CSS. It allows users to create a list of tasks with a description, completion status, and index.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -131,8 +122,10 @@ Contact 📞
 If you have any inquiries, suggestions, or feedback, please feel free to contact us. You can reach out to us via:
 
 - [Email](HossainAraf@gmail.com) <br>
--  Social Media: Follow us on Twitter, Facebook, and Instagram for updates and special offers.
+- Social Media: Follow us on Twitter, Facebook, and Instagram for updates and special offers.
 - [Github](HossainAraf)
+
+
 
 ## 🔭 Future Features <a name="future-features"></a>
 - [ ] A complete website with navigation
