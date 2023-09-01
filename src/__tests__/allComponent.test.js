@@ -1,7 +1,6 @@
 import React from 'react';
 import { render } from '@testing-library/react';
 import HomePage from '../route/home';
-import CalculatorPage from '../route/calculator';
 import Quote from '../route/quote';
 
 describe('Test the all commponents', () => {
